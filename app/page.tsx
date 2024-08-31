@@ -11,7 +11,7 @@ export default function Home() {
               Sort your notes easily
             </span>
           </span>
-
+          
           <h1 className=" text-3xl font-extrabold tracking-tight lg:text-6xl mt-8">
             Create Notes with ease
           </h1>
